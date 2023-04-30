@@ -1,0 +1,48 @@
+      Unnamed: 0   IDCliente     Genero  ...  TotalGasto Churn Codigo
+0           1869  7010-BRBUU  Masculino  ...     1734.65   Nao    NaN
+1           4528  9688-YGXVR   Feminino  ...      3973.2   Nao    NaN
+2           6344  9286-DOJGF   Feminino  ...     2869.85   Sim    NaN
+3           6739  6994-KERXL  Masculino  ...       238.5   Nao    NaN
+4            432  2181-UAESM  Masculino  ...       119.5   Nao    NaN
+...          ...         ...        ...  ...         ...   ...    ...
+5981        3772  0684-AOSIH  Masculino  ...          95   Sim    NaN
+5982        5191  5982-PSMKW   Feminino  ...      2198.3   Nao    NaN
+5983        5226  8044-BGWPI  Masculino  ...      306.05   Nao    NaN
+5984        5390  7450-NWRTR  Masculino  ...     1200.15   Sim    NaN
+5985         860  4795-UXVCJ  Masculino  ...       457.3   Nao    NaN
+
+[5986 rows x 23 columns]
+======================================================================
+
+       IDCliente     Genero  Aposentado  ... TotalGasto Churn  Codigo
+0     7010-BRBUU  Masculino           0  ...    1734.65   Nao     NaN
+1     9688-YGXVR   Feminino           0  ...     3973.2   Nao     NaN
+2     9286-DOJGF   Feminino           1  ...    2869.85   Sim     NaN
+3     6994-KERXL  Masculino           0  ...      238.5   Nao     NaN
+4     2181-UAESM  Masculino           0  ...      119.5   Nao     NaN
+...          ...        ...         ...  ...        ...   ...     ...
+5981  0684-AOSIH  Masculino           0  ...         95   Sim     NaN
+5982  5982-PSMKW   Feminino           0  ...     2198.3   Nao     NaN
+5983  8044-BGWPI  Masculino           0  ...     306.05   Nao     NaN
+5984  7450-NWRTR  Masculino           1  ...    1200.15   Sim     NaN
+5985  4795-UXVCJ  Masculino           0  ...      457.3   Nao     NaN
+
+[5986 rows x 22 columns]
+======================================================================
+
+       IDCliente     Genero  Aposentado  ... ValorMensal TotalGasto  Churn
+0     7010-BRBUU  Masculino           0  ...       24.10    1734.65    Nao
+1     9688-YGXVR   Feminino           0  ...       88.15    3973.20    Nao
+2     9286-DOJGF   Feminino           1  ...       74.95    2869.85    Sim
+3     6994-KERXL  Masculino           0  ...       55.90     238.50    Nao
+4     2181-UAESM  Masculino           0  ...       53.45     119.50    Nao
+...          ...        ...         ...  ...         ...        ...    ...
+5981  0684-AOSIH  Masculino           0  ...       95.00      95.00    Sim
+5982  5982-PSMKW   Feminino           0  ...       91.10    2198.30    Nao
+5983  8044-BGWPI  Masculino           0  ...       21.15     306.05    Nao
+5984  7450-NWRTR  Masculino           1  ...       99.45    1200.15    Sim
+5985  4795-UXVCJ  Masculino           0  ...       19.80     457.30    Nao
+
+[5974 rows x 21 columns]
+======================================================================
+
